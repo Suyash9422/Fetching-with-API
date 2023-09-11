@@ -1,0 +1,22 @@
+Website used : https://www.themoviedb.org/
+for api fetching : https://developer.themoviedb.org/reference/intro/getting-started
+then select for which term u need api select and copy that
+create a acc on https://www.themoviedb.org/
+go and settings and profile and select api option for gettting api key.
+
+Then again open https://developer.themoviedb.org/reference/intro/getting-started and select the required api action site and copy that and paste in new tab.
+add api_key=<your generated api_key> at the end of link.
+
+id
+title
+release date
+overview
+popurality
+vote_avg
+vote_count
+
+shape = 8851*7
+
+
+
+for finding the list of sites where apis are availble search on google: rapidapi 
